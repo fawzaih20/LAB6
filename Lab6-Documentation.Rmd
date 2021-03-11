@@ -1,10 +1,10 @@
 ---
 title: "Lab 6 - La Quinta is Spanish for next to Denny's, Pt. 1"
 subtitle: "Visualizing spatial data"
-author: https://datasciencebox.org/
+author: Fawzaih Nazal
 output: pdf_document
 ---
-
+ID:2201000429
 
 ```{r include = FALSE}
 knitr::opts_chunk$set(eval = FALSE)
