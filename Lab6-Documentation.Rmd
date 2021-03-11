@@ -121,12 +121,14 @@ We don't need to tell R how many times to repeat the character string "United St
 ```{r}
 dn <- dennys %>%
   mutate(country = "United States")
+
 ```
 
 Add the code below for La Quinta's dataset
 
 ```{r}
-
+ lq <- laquinta %>%
+ mutate(country = "United States")
 ```
 
 
